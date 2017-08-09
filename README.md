@@ -1,6 +1,8 @@
-# One Campaign Monitor
+# One Campaign Monitor (nfourtythree remix)
 
 Craft CMS Plugin for Campaign Monitor Integration
+
+**This is a fork (remix) of the original plugin with some of my own decisions and updates**
 
 ## Installation
 

@@ -4,19 +4,19 @@ namespace Craft;
 class OneCampaignMonitorPlugin extends BasePlugin {
 
     public function getName() {
-        return Craft::t('One Campaign Monitor');
+        return Craft::t('One Campaign Monitor (nfourtythree remix)');
     }
 
     public function getVersion() {
-        return '0.1';
+        return '0.1.8';
     }
 
     public function getDeveloper() {
-        return 'One Design Company';
+        return 'One Design Company (nfourtythree remix)';
     }
 
     public function getDeveloperUrl() {
-        return 'https://onedesigncompany.com';
+        return 'https://github.com/nfourtythree/onecampaignmonitor';
     }
 
     public function onAfterInstall() {}
